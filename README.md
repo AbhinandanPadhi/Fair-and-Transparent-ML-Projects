@@ -1,2 +1,4 @@
-# Fair-and-Transparent-ML-Projects
-This repository contains Abhinandan's projects on Fair &amp; Transparent ML from Q1 (Winter) 2025.
+# Fair and Transparent ML Projects
+This repository contains Abhinandan's projects on Fair and Transparent ML from Q1 (Winter) 2025. Currently, the projects include:
+
+1. A project about improving the fairness of ML models for Diabetes Prediction (using a dataset from the UCI ML repository). For this project, we consider fairness with regard to various sensitive attributes (age, sex, education level, and income level). We apply three types of fairness interventions: dataset (pre-processing), model (in-processing), and prediction threshold (post-processing) interventions. More details are provided in the relevant IPython notebook.
